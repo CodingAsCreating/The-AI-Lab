@@ -1,0 +1,1060 @@
+[
+  {
+    "title": "NIST AI Risk Management Framework for Generative AI",
+    "summary": "This NIST publication (AI 600-1) presents a framework for managing risks associated with generative artificial intelligence systems. It is part of NIST's broader initiative on trustworthy and responsible AI, providing guidance on responsible AI development and deployment.",
+    "keywords": [
+      "NIST AI 600-1",
+      "generative artificial intelligence",
+      "AI risk management",
+      "trustworthy AI",
+      "responsible AI",
+      "AI framework",
+      "generative AI profile",
+      "AI governance"
+    ],
+    "page": 1
+  },
+  {
+    "title": "NIST AI Risk Management Framework for Generative AI",
+    "summary": "This NIST publication (AI 600-1) from July 2024 presents a specialized risk management framework tailored for generative artificial intelligence systems. Published by the U.S. Department of Commerce's National Institute of Standards and Technology, it provides guidance on trustworthy and responsible AI development and deployment.",
+    "keywords": [
+      "NIST AI 600-1",
+      "generative artificial intelligence",
+      "risk management framework",
+      "trustworthy AI",
+      "responsible AI",
+      "AI governance",
+      "NIST standards",
+      "AI safety"
+    ],
+    "page": 2
+  },
+  {
+    "title": "NIST AI Standards and Safety Institute Overview",
+    "summary": "This page describes NIST's mission to develop measurements, standards, and tools for reliable, safe, transparent, and fair artificial intelligence. NIST established the U.S. AI Safety Institute and AI Safety Institute Consortium to support the 2023 Executive Order on Safe, Secure, and Trustworthy AI, building science for responsible AI development and deployment.",
+    "keywords": [
+      "NIST AI Safety Institute",
+      "artificial intelligence standards",
+      "trustworthy AI",
+      "AI safety",
+      "Executive Order on Safe Secure and Trustworthy AI",
+      "AI transparency and explainability",
+      "NIST Generative AI Public Working Group",
+      "responsible AI development"
+    ],
+    "page": 3
+  },
+  {
+    "title": "Generative AI Risk Management Guide",
+    "summary": "This document provides a comprehensive overview of risks associated with generative AI (GAI) systems, including those unique to or exacerbated by GAI technologies. It offers suggested actions and management strategies for mitigating these risks, with detailed considerations and references provided in the appendices.",
+    "keywords": [
+      "generative AI risks",
+      "GAI management",
+      "AI risk mitigation",
+      "generative AI considerations",
+      "AI safety",
+      "risk management strategies",
+      "GAI governance"
+    ],
+    "page": 4
+  },
+  {
+    "title": "AI Risk Management Framework Profile for Generative AI",
+    "summary": "This document is a cross-sectoral profile and companion resource for the AI Risk Management Framework (AI RMF 1.0) developed under President Biden's Executive Order 14110, designed to help organizations manage risks associated with Generative AI systems. The profile provides guidance on governing, mapping, measuring, and managing risks across the AI lifecycle, with a focus on risks novel to or exacerbated by GAI technologies such as large language models and foundation models.",
+    "keywords": [
+      "AI Risk Management Framework",
+      "Generative AI",
+      "AI RMF 1.0",
+      "large language models",
+      "foundation models",
+      "Executive Order 14110",
+      "risk governance",
+      "trustworthiness",
+      "AI lifecycle",
+      "cross-sectoral profile"
+    ],
+    "page": 5
+  },
+  {
+    "title": "NIST GAI Risk Management Framework and Key Risk Dimensions",
+    "summary": "This page describes NIST's Generative AI Public Working Group (GAI PWG) collaborative process and its focus on four primary considerations: Governance, Content Provenance, Pre-deployment Testing, and Incident Disclosure. It defines AI risk within the RMF context and outlines how GAI risks vary across multiple dimensions including lifecycle stages, scope levels (model to ecosystem), and risk sources from design, training, operation, inputs, outputs, and human behavior.",
+    "keywords": [
+      "NIST Generative AI Public Working Group",
+      "GAI risk management",
+      "AI RMF framework",
+      "content provenance",
+      "pre-deployment testing",
+      "incident disclosure",
+      "algorithmic monocultures",
+      "AI lifecycle risks",
+      "ecosystem-level risks"
+    ],
+    "page": 6
+  },
+  {
+    "title": "GAI Risk Dimensions and Management Framework",
+    "summary": "This page outlines the dimensions and characteristics of generative AI (GAI) risks, including their origin (human misuse or system interaction), time scale (immediate or long-term), and contextual factors like model architecture and training data. It discusses how organizations should tailor risk management based on GAI model characteristics and severity of potential harms, while acknowledging challenges in risk estimation due to unknown risks, lack of training data visibility, and immature AI safety science.",
+    "keywords": [
+      "generative AI risks",
+      "GAI risk management",
+      "adversarial misuse",
+      "deepfakes",
+      "disinformation",
+      "model safety",
+      "risk estimation",
+      "trustworthy AI",
+      "ecosystem risks",
+      "technical risks"
+    ],
+    "page": 7
+  },
+  {
+    "title": "Generative AI Risk Categories and Harms",
+    "summary": "This page outlines nine major risk categories associated with generative AI (GAI) systems, including CBRN information access, confabulation/hallucinations, violent or hateful content generation, data privacy breaches, environmental impacts, harmful bias, human-AI interaction issues, information integrity threats, and cybersecurity vulnerabilities. Each category describes specific harms and challenges that GAI systems may pose to users and society.",
+    "keywords": [
+      "generative AI risks",
+      "GAI harms",
+      "confabulation hallucinations",
+      "CBRN weapons",
+      "algorithmic bias",
+      "data privacy",
+      "misinformation",
+      "cybersecurity vulnerabilities",
+      "information integrity",
+      "human-AI interaction"
+    ],
+    "page": 8
+  },
+  {
+    "title": "GAI Risks: Security, IP, CBRN Threats, and Supply Chain",
+    "summary": "This page outlines multiple risk categories associated with generative AI systems, including cybersecurity vulnerabilities, intellectual property violations, obscene content generation, and supply chain transparency issues. It specifically addresses the potential for GAI to facilitate access to CBRN (Chemical, Biological, Radiological, Nuclear) weapons information and capabilities, noting that while current LLMs provide minimal assistance beyond search engines, specialized biological design tools may pose greater future risks.",
+    "keywords": [
+      "CBRN weapons",
+      "cybersecurity risks",
+      "intellectual property infringement",
+      "synthetic CSAM",
+      "biological design tools",
+      "supply chain transparency",
+      "generative AI risks",
+      "malicious actors",
+      "trade secrets",
+      "trustworthy AI"
+    ],
+    "page": 9
+  },
+  {
+    "title": "Confabulation in Generative AI Systems",
+    "summary": "This section defines confabulation as the phenomenon where GAI systems generate false or erroneous content with confidence, also known as hallucinations or fabrications. The confabulations result from how generative models work statistically and can pose significant risks in high-stakes applications like healthcare where false information could lead to incorrect decisions.",
+    "keywords": [
+      "confabulation",
+      "hallucinations",
+      "GAI systems",
+      "false content generation",
+      "LLMs",
+      "trustworthy AI",
+      "fabrications",
+      "healthcare risks",
+      "generative models"
+    ],
+    "page": 10
+  },
+  {
+    "title": "GAI Safety Risks: Harmful Content and Data Privacy",
+    "summary": "This page examines two major risk areas for generative AI systems: the creation and spread of harmful content (including violent imagery, hate speech, and self-harm recommendations) through text-to-image models and language models, and significant data privacy concerns arising from training on large volumes of personal data. It discusses how jailbreaking circumvents safety controls, how GAI systems may leak or infer sensitive information through data memorization, and how these risks can lead to representational and allocative harms.",
+    "keywords": [
+      "harmful content generation",
+      "jailbreaking",
+      "data privacy",
+      "personally identifiable information (PII)",
+      "data memorization",
+      "adversarial attacks",
+      "hate speech",
+      "text-to-image models",
+      "GAI safety risks",
+      "representational harms"
+    ],
+    "page": 11
+  },
+  {
+    "title": "Environmental Impacts and Bias in Generative AI Systems",
+    "summary": "This page examines two critical aspects of trustworthy AI: the environmental costs of training and operating generative AI models, and the problem of harmful bias and homogenization in GAI systems. It presents evidence that training transformer LLMs produces significant carbon emissions comparable to 300 transatlantic flights, notes that generative tasks are more energy-intensive than discriminative tasks, and discusses how current GAI systems perpetuate and amplify harmful biases related to race, gender, disability, and other protected classes.",
+    "keywords": [
+      "environmental impacts GAI",
+      "carbon emissions LLM training",
+      "harmful bias generative AI",
+      "model homogenization",
+      "disparate performance subgroups",
+      "energy consumption inference",
+      "representational harms",
+      "trustworthy AI characteristics"
+    ],
+    "page": 12
+  },
+  {
+    "title": "GAI Risks: Model Collapse, Human-AI Configuration, Information Integrity",
+    "summary": "This page discusses three critical trustworthiness challenges in generative AI systems: model collapse caused by over-reliance on synthetic training data leading to homogenized outputs; human-AI configuration risks including automation bias and over-reliance on GAI systems; and information integrity concerns about distinguishing reliable information from misinformation in AI-generated content.",
+    "keywords": [
+      "model collapse",
+      "synthetic data",
+      "automation bias",
+      "human-AI interaction",
+      "homogenized outputs",
+      "information integrity",
+      "foundation models",
+      "GAI miscon\ufb01gurations",
+      "confabulation risk",
+      "content diversity"
+    ],
+    "page": 13
+  },
+  {
+    "title": "GAI Risks: Misinformation, Disinformation, and Information Security",
+    "summary": "This page discusses how Generative AI (GAI) systems can facilitate the creation and spread of misinformation and disinformation at scale, including deepfakes and manipulated content that erodes public trust. It also covers information security risks posed by GAI, including how these systems can enable advanced cyber attacks like hacking and phishing while being vulnerable to attacks such as prompt injection and data poisoning.",
+    "keywords": [
+      "misinformation",
+      "disinformation",
+      "deepfakes",
+      "GAI security risks",
+      "synthetic content",
+      "cybersecurity attacks",
+      "prompt injection",
+      "data poisoning",
+      "generative AI threats",
+      "content manipulation"
+    ],
+    "page": 14
+  },
+  {
+    "title": "GAI Security Risks and Intellectual Property Concerns",
+    "summary": "This page discusses major cybersecurity threats to generative AI systems, including prompt injection attacks (both direct and indirect) and data poisoning that can compromise model training datasets. It also addresses intellectual property risks related to copyright infringement from training data memorization, as well as the serious harms caused by GAI-generated obscene content including non-consensual intimate imagery and child sexual abuse material.",
+    "keywords": [
+      "prompt injection attacks",
+      "data poisoning",
+      "GAI cybersecurity",
+      "copyright infringement",
+      "training data memorization",
+      "non-consensual intimate imagery",
+      "CSAM",
+      "deepfakes",
+      "intellectual property",
+      "trustworthy AI"
+    ],
+    "page": 15
+  },
+  {
+    "title": "GAI Risk Management: Value Chain Integration and Mitigation Strategies",
+    "summary": "This page discusses risks in Generative AI (GAI) value chains, including the challenge of synthetic NCII/CSAM generation and the complexity of managing third-party components like datasets, pre-trained models, and software libraries. It introduces suggested actions organized by AI Risk Management Framework (AI RMF) subcategories to address GAI-specific risks across the system lifecycle.",
+    "keywords": [
+      "GAI value chain",
+      "synthetic NCII and CSAM",
+      "third-party components",
+      "AI risk management",
+      "trustworthy AI",
+      "model transparency and accountability",
+      "training data vetting",
+      "benchmark label errors",
+      "AI RMF subcategories",
+      "GAI lifecycle"
+    ],
+    "page": 16
+  },
+  {
+    "title": "AI RMF Govern 1.1 Legal and Regulatory Requirements",
+    "summary": "This page explains the structure and application of suggested actions within the AI Risk Management Framework (AI RMF), specifically focusing on the Govern 1.1 subcategory regarding legal and regulatory requirements for AI systems. It outlines how Action IDs are coded (GV, MP, MS, MG functions), describes the components of action tables (Action ID, Suggested Action, GAI Risks, AI Actor Tasks), and provides the first suggested action (GV-1.1-001) requiring alignment of GAI development with applicable laws on data privacy, copyright, and intellectual property.",
+    "keywords": [
+      "AI RMF",
+      "Govern 1.1",
+      "legal and regulatory requirements",
+      "GAI risks",
+      "AI Actor Tasks",
+      "Action ID",
+      "data privacy",
+      "intellectual property",
+      "risk management framework",
+      "AI governance"
+    ],
+    "page": 17
+  },
+  {
+    "title": "GAI Governance Policies and Risk Management Actions",
+    "summary": "This page outlines GOVERN 1.2 and 1.3 framework recommendations for integrating trustworthy AI characteristics into organizational policies and establishing risk management processes for generative AI (GAI) applications. It provides specific suggested actions such as establishing transparency policies for training data documentation, evaluating GAI capabilities and safety measures, and defining risk tiers based on factors like information integrity, harmful bias, and CBRN risks.",
+    "keywords": [
+      "AI governance policies",
+      "GAI risk management",
+      "trustworthy AI characteristics",
+      "training data transparency",
+      "safety evaluation procedures",
+      "risk tolerance assessment",
+      "CBRN information security",
+      "algorithmic bias",
+      "deployment approval processes",
+      "AI performance assurance"
+    ],
+    "page": 18
+  },
+  {
+    "title": "GAI Risk Management Governance and Oversight Framework",
+    "summary": "This page outlines governance and oversight tasks (GV-1.3 and GV-1.4) for managing generative AI (GAI) risks through stakeholder engagement, risk hierarchy maintenance, and policy establishment. It specifies actions for identifying unacceptable uses, reevaluating risk tolerances, halting unsafe deployments, and establishing transparent policies to prevent harmful content generation and illegal GAI applications.",
+    "keywords": [
+      "GAI risk management",
+      "governance and oversight",
+      "acceptable use policies",
+      "unacceptable negative risk",
+      "stakeholder engagement",
+      "harmful content prevention",
+      "CSAM and NCII",
+      "risk tolerance reevaluation",
+      "AI safety culture",
+      "policy procedures controls"
+    ],
+    "page": 19
+  },
+  {
+    "title": "GAI Risk Management Monitoring and System Inventory",
+    "summary": "This page outlines governance requirements for ongoing monitoring and periodic review of generative AI (GAI) systems, including defined organizational responsibilities for incident monitoring and after-action reviews. It also details mechanisms for inventorying AI systems with specific requirements for GAI, including documentation of data provenance, known issues, human oversight roles, intellectual property considerations, and underlying foundation models.",
+    "keywords": [
+      "GAI risk management",
+      "periodic review",
+      "incident monitoring",
+      "AI system inventory",
+      "data provenance",
+      "governance and oversight",
+      "content provenance",
+      "foundation models",
+      "incident response",
+      "information integrity"
+    ],
+    "page": 20
+  },
+  {
+    "title": "AI System Decommissioning and Risk Governance Procedures",
+    "summary": "This page outlines governance standards for safely decommissioning AI systems and establishing clear roles and responsibilities for managing AI risks across organizations. It provides specific action items for deactivating GAI systems, considering data security and dependencies during phase-out, and creating organizational procedures for incident response, communication, and whistleblower protections.",
+    "keywords": [
+      "AI decommissioning",
+      "GAI system shutdown",
+      "AI risk management",
+      "incident response procedures",
+      "data security protocols",
+      "organizational governance",
+      "AI incident communication",
+      "whistleblower protection",
+      "AI actor roles and responsibilities"
+    ],
+    "page": 21
+  },
+  {
+    "title": "GAI Governance Policies and Risk Oversight Procedures",
+    "summary": "This page outlines governance policies and procedures for managing generative AI (GAI) systems, focusing on defining roles and responsibilities for human-AI configurations and establishing oversight mechanisms. It provides specific actions for implementing independent evaluations, adjusting organizational roles across GAI lifecycle stages, defining acceptable use policies, establishing user feedback mechanisms, and conducting threat modeling. The page also addresses safety-first practices including risk measurement, explainability, transparency, and red-teaming to minimize negative impacts.",
+    "keywords": [
+      "GAI governance",
+      "human-AI configuration",
+      "AI risk oversight",
+      "independent evaluations",
+      "red-teaming",
+      "acceptable use policies",
+      "threat modeling",
+      "risk measurement",
+      "AI explainability",
+      "safety-first mindset"
+    ],
+    "page": 22
+  },
+  {
+    "title": "GAI Governance Policies for Risk Management and Oversight",
+    "summary": "This page outlines governance frameworks (GOVERN 4.1-4.3) for managing generative AI systems across their lifecycle, including establishing oversight policies, documenting risks and impacts, and implementing testing and incident reporting practices. Key sections address organizational procedures for risk identification, terms of service, content provenance measurement, and standardized incident reporting criteria to address GAI-specific risks such as intellectual property concerns, content safety, and information security.",
+    "keywords": [
+      "GAI governance",
+      "risk management",
+      "incident reporting",
+      "content provenance",
+      "AI oversight",
+      "terms of service",
+      "information security",
+      "AI lifecycle",
+      "impact documentation",
+      "generative AI policies"
+    ],
+    "page": 23
+  },
+  {
+    "title": "GAI Governance: Feedback Mechanisms and Third-Party Risk Management",
+    "summary": "This page outlines governance guidelines for generative AI (GAI) systems, focusing on two key areas: establishing information sharing and feedback mechanisms to address negative impacts from GAI systems (GOVERN 4.3 and 5.1), and managing risks associated with third-party entities including intellectual property infringement (GOVERN 6.1). The suggested actions include resource allocation for feedback processes, documentation of user interactions, content categorization by third-party rights, collaborative educational activities, and development of contracts and service level agreements.",
+    "keywords": [
+      "GAI governance",
+      "feedback mechanisms",
+      "third-party risk management",
+      "intellectual property",
+      "content provenance",
+      "service level agreements",
+      "AI impact assessment",
+      "data privacy",
+      "information integrity"
+    ],
+    "page": 24
+  },
+  {
+    "title": "Third-Party GAI Risk Assessment and Contingency Framework",
+    "summary": "This page outlines governance controls (GV-6.1 and GV-6.2) for managing generative AI (GAI) risks from third-party entities, including supplier risk assessment frameworks, contract clauses, vendor due diligence, and contingency processes. Key recommendations cover content provenance monitoring, intellectual property protection, data privacy compliance, and incident documentation for third-party GAI systems and data sources.",
+    "keywords": [
+      "supplier risk assessment",
+      "third-party GAI vendors",
+      "content provenance",
+      "due diligence procurement",
+      "contingency processes",
+      "intellectual property",
+      "value chain risk management",
+      "acceptable use policies",
+      "incident documentation"
+    ],
+    "page": 25
+  },
+  {
+    "title": "Third-Party GAI Incident Response and Vendor Management",
+    "summary": "This page outlines governance measures for managing generative AI (GAI) systems from third-party vendors, focusing on incident response planning, continuous monitoring, and vendor contract review. Key requirements include establishing aligned incident response plans, defining ownership of response functions, monitoring deployed systems, managing data redundancy and fallback technologies, and reviewing vendor contracts to ensure clear liability assignments and appropriate Service Level Agreements.",
+    "keywords": [
+      "incident response plans",
+      "third-party GAI",
+      "vendor management",
+      "continuous monitoring",
+      "Service Level Agreements",
+      "data redundancy",
+      "vendor contracts",
+      "rollover and fallback technologies",
+      "liability assignment",
+      "breach reporting"
+    ],
+    "page": 26
+  },
+  {
+    "title": "GAI System Context Documentation and Risk Management",
+    "summary": "This page outlines procedures for establishing and documenting the expected context of use for generative AI (GAI) systems through collaboration with domain experts, assessing assumptions, impacts, and social norms. It details risk measurement plans addressing cognitive biases, known incidents, misuse scenarios, and foreseeable illegal applications, while emphasizing the importance of interdisciplinary teams with diverse demographics and expertise to conduct risk assessment and management.",
+    "keywords": [
+      "GAI system context of use",
+      "risk measurement plans",
+      "harmful bias",
+      "interdisciplinary teams",
+      "human-AI configuration",
+      "cognitive biases",
+      "foreseeable misuse",
+      "demographic diversity",
+      "generative AI governance"
+    ],
+    "page": 27
+  },
+  {
+    "title": "AI System Implementation Tasks and Risk Mitigation",
+    "summary": "This page outlines MAP 2.1-2.3 framework sections detailing specific tasks and methods for implementing AI systems, including defining classifiers and generative models. It covers critical actions for establishing data lineage documentation, testing data flows, documenting system knowledge limits, and assessing output accuracy through scientific integrity and TEVV (Testing, Evaluation, Verification, and Validation) considerations. The framework addresses risks related to information integrity, intellectual property, data privacy, and value chain integration.",
+    "keywords": [
+      "MAP framework",
+      "GAI risks",
+      "data lineage",
+      "TEVV",
+      "information integrity",
+      "content provenance",
+      "AI system validation",
+      "ground truth evaluation",
+      "data privacy"
+    ],
+    "page": 28
+  },
+  {
+    "title": "GAI Risk Management: Data Accuracy, Testing, and Operator Proficiency",
+    "summary": "This page outlines critical actions for managing generative AI risks across the AI lifecycle, focusing on data quality assurance, fact-checking, synthetic content detection, and adversarial testing. It also details proficiency requirements for GAI operators and end-users, including training programs, certification standards, and human-AI configuration monitoring to ensure trustworthiness and proper system performance.",
+    "keywords": [
+      "generative AI risk management",
+      "data accuracy and bias",
+      "fact-checking techniques",
+      "synthetic media detection",
+      "adversarial testing",
+      "operator proficiency certification",
+      "content provenance",
+      "human-AI configuration",
+      "information integrity",
+      "GAI lifecycle"
+    ],
+    "page": 29
+  },
+  {
+    "title": "AI Technology Mapping and Legal Risk Management Actions",
+    "summary": "This page outlines Map 4.1, a framework for mapping AI technology components and their associated legal risks, including third-party data, software, and intellectual property concerns. It presents nine specific actions (MP-4.1-001 through MP-4.1-009) addressing critical risk areas such as data privacy, intellectual property protection, CBRN information security, harmful bias, and dangerous content detection. The actions focus on monitoring, documenting policies, implementing governance processes, and establishing safeguards for training data and third-party components.",
+    "keywords": [
+      "AI risk mapping",
+      "data privacy monitoring",
+      "intellectual property protection",
+      "training data governance",
+      "third-party model integration",
+      "PII detection",
+      "GAI policy framework",
+      "CBRN information security",
+      "harmful bias mitigation",
+      "compliance and risk management"
+    ],
+    "page": 30
+  },
+  {
+    "title": "AI Risk Management: Training Data Diligence and Content Provenance",
+    "summary": "This page outlines risk management practices for generative AI systems, focusing on intellectual property and privacy due diligence for training data, as well as content provenance assessment. It provides specific actions for identifying and mitigating harms from GAI including misinformation, deepfakes, and dangerous content through TEVV practices, adversarial testing, and threat profiling.",
+    "keywords": [
+      "training data diligence",
+      "intellectual property risks",
+      "data privacy",
+      "content provenance",
+      "generative AI risks",
+      "deepfakes",
+      "misinformation detection",
+      "red-teaming",
+      "GAI disclosure",
+      "adversarial testing"
+    ],
+    "page": 31
+  },
+  {
+    "title": "AI Risk Measurement and Stakeholder Engagement Practices",
+    "summary": "This page outlines practices for supporting regular engagement with AI actors and integrating feedback on GAI system impacts, along with measurement approaches for AI risks. It includes specific actions for identifying unanticipated impacts through downstream engagement and planning regular reviews with upstream AI actors, plus detailed measures for selecting and implementing risk metrics with focus on information integrity, bias detection, and content provenance.",
+    "keywords": [
+      "GAI risk measurement",
+      "AI actor engagement",
+      "content provenance",
+      "information integrity",
+      "harmful bias detection",
+      "unanticipated impacts",
+      "trustworthiness metrics",
+      "CBRN information",
+      "demographic evaluation",
+      "stakeholder feedback"
+    ],
+    "page": 32
+  },
+  {
+    "title": "GAI System Monitoring and Assessment Measures",
+    "summary": "This page outlines specific measures and actions for implementing continuous monitoring of generative AI (GAI) systems to identify equitable outputs across populations and manage risks. It covers two main measures: MS-1.1 for continuous impact monitoring with structured feedback mechanisms, and MS-1.3 for involving independent experts and external assessors in regular evaluations, including red-teaming exercises and impact assessments.",
+    "keywords": [
+      "GAI monitoring",
+      "harmful bias detection",
+      "red-teaming",
+      "independent assessment",
+      "structured feedback mechanisms",
+      "information integrity",
+      "affected communities",
+      "AI risk measurement",
+      "stakeholder consultation",
+      "data provenance"
+    ],
+    "page": 33
+  },
+  {
+    "title": "GAI Evaluation Requirements and Performance Measurement",
+    "summary": "This page outlines Measure 2.2 and 2.3 for generative AI (GAI) systems, specifying requirements for human subject evaluations and AI system performance measurement. Measure 2.2 focuses on protecting human subjects through bias management, privacy safeguards, consent withdrawal options, and privacy-enhancing technologies. Measure 2.3 addresses documenting and demonstrating AI system performance using benchmarks and empirically validated methods in deployment-like conditions.",
+    "keywords": [
+      "human subject protection",
+      "statistical bias management",
+      "data privacy",
+      "consent and withdrawal",
+      "differential privacy",
+      "AI performance measurement",
+      "benchmark evaluation",
+      "pre-deployment testing",
+      "personally identifiable information",
+      "retrieval-augmented generation"
+    ],
+    "page": 34
+  },
+  {
+    "title": "GAI System Validation, Reliability, and Trustworthiness Measures",
+    "summary": "This page outlines measures for demonstrating that generative AI (GAI) systems are valid, reliable, and trustworthy before deployment. It covers testing environments like NIST Dioptra, avoiding narrow performance assessments, documenting human-AI configuration methods (RLHF, fine-tuning, retrieval-augmented generation), verifying data sources and citations, tracking anthropomorphization in interfaces, and regularly reviewing security guardrails for ongoing safety.",
+    "keywords": [
+      "GAI validation and reliability",
+      "NIST Dioptra testing",
+      "TEVV (Testing, Evaluation, Verification and Validation)",
+      "confabulation mitigation",
+      "retrieval-augmented generation",
+      "data provenance",
+      "human-AI configuration",
+      "anthropomorphization",
+      "security guardrails",
+      "generative AI trustworthiness"
+    ],
+    "page": 35
+  },
+  {
+    "title": "AI System Safety Evaluation and Risk Mitigation Actions",
+    "summary": "This page outlines Measure 2.6 for regular safety evaluation of AI systems to ensure residual risks remain within organizational tolerance and systems can fail safely. It presents seven specific actions (MS-2.6-001 through MS-2.6-007) addressing critical safety concerns including harmful content assessment, bias detection, output validation, architecture monitoring, and vulnerability testing across the AI value chain.",
+    "keywords": [
+      "AI safety evaluation",
+      "risk tolerance",
+      "safety metrics",
+      "harmful bias assessment",
+      "content moderation",
+      "system vulnerabilities",
+      "output monitoring",
+      "GAI system testing",
+      "data privacy risks",
+      "safety features re-evaluation"
+    ],
+    "page": 36
+  },
+  {
+    "title": "AI System Security and Resilience Evaluation Measures",
+    "summary": "This page outlines Measure 2.7 from a governance framework, detailing eight specific actions for evaluating and documenting AI system security and resilience. The actions cover vulnerability assessment, benchmarking against industry standards, user surveys on content authenticity, security metrics definition, content authentication reliability, incident response rates, red-teaming exercises, and fine-tuning safety verification.",
+    "keywords": [
+      "AI system security",
+      "resilience evaluation",
+      "content provenance",
+      "red-teaming",
+      "vulnerability assessment",
+      "content authentication",
+      "watermarking and cryptographic signatures",
+      "model integrity verification",
+      "prompt injection attacks",
+      "data provenance"
+    ],
+    "page": 37
+  },
+  {
+    "title": "Security measures and transparency accountability for GAI systems",
+    "summary": "This page details Measure 2.8 for examining and documenting risks related to transparency and accountability in generative AI systems. It provides four specific actions including compiling policy violation statistics, documenting annotator instructions, implementing digital content transparency solutions with version control, and verifying user instructions through testing.",
+    "keywords": [
+      "GAI security measures",
+      "transparency and accountability",
+      "policy violations and take-down requests",
+      "data annotator documentation",
+      "digital content transparency",
+      "version control systems",
+      "user instructions verification",
+      "information integrity",
+      "intellectual property infringement"
+    ],
+    "page": 38
+  },
+  {
+    "title": "AI Model Explanation, Validation, Documentation and Privacy Risk Assessment",
+    "summary": "This page outlines Measures 2.9 and 2.10 for responsible AI governance, focusing on explaining and documenting AI models through techniques like ML explanation results and comprehensive model documentation, as well as examining privacy risks through red-teaming, stakeholder engagement, and data deduplication verification. The measures address risks including confabulation, information integrity, harmful bias, and intellectual property concerns across AI deployment, impact assessment, and monitoring functions.",
+    "keywords": [
+      "AI model explanation",
+      "model documentation",
+      "privacy risk assessment",
+      "AI red-teaming",
+      "training data protection",
+      "GAI governance",
+      "RLHF",
+      "model validation",
+      "intellectual property",
+      "stakeholder engagement"
+    ],
+    "page": 39
+  },
+  {
+    "title": "Fairness and Bias Evaluation in Generative AI Systems",
+    "summary": "This page outlines Measure 2.11 for evaluating fairness and bias in generative AI (GAI) systems, detailing four specific actions (MS-2.11-001 through MS-2.11-004) that organizations should implement. The actions include applying bias benchmarks, conducting fairness assessments across demographic groups, identifying impacted communities, and reviewing bias sources in training data, with emphasis on documenting assumptions and measuring harms through field testing and red-teaming.",
+    "keywords": [
+      "fairness and bias evaluation",
+      "generative AI risks",
+      "demographic parity",
+      "harmful bias measurement",
+      "AI red-teaming",
+      "bias benchmarks",
+      "training data representativeness",
+      "fairness metrics",
+      "hateful content detection"
+    ],
+    "page": 40
+  },
+  {
+    "title": "Training Data Quality and Environmental Impact Assessment for GAI Systems",
+    "summary": "This page outlines measures for assessing synthetic versus non-synthetic training data to prevent model collapse and homogenization, as well as evaluating and documenting the environmental sustainability impacts of AI model training and deployment. It provides specific actions for measuring energy and water consumption, addressing safety concerns, and verifying carbon offset programs.",
+    "keywords": [
+      "synthetic training data",
+      "model collapse",
+      "harmful bias",
+      "environmental impact assessment",
+      "GAI systems sustainability",
+      "carbon offset programs",
+      "training data homogenization",
+      "green-washing",
+      "model deployment safety",
+      "energy consumption measurement"
+    ],
+    "page": 41
+  },
+  {
+    "title": "TEVV Metrics Evaluation and Risk Tracking for Generative AI",
+    "summary": "This page outlines three key measures for evaluating the effectiveness of TEVV (Test, Evaluation, Verification, and Validation) metrics and processes in generative AI systems. It covers creating measurement error models to validate metrics (Measure 2.13), establishing risk tracking approaches for emergent GAI risks (Measure 3.2), and implementing feedback processes from end users and impacted communities to assess AI system outcomes and potential biases (Measure 3.3).",
+    "keywords": [
+      "TEVV metrics",
+      "measurement error models",
+      "construct validity",
+      "GAI risks",
+      "harmful bias assessment",
+      "end user feedback",
+      "impact assessment",
+      "AI system evaluation",
+      "content provenance",
+      "emergent risk tracking"
+    ],
+    "page": 42
+  },
+  {
+    "title": "GAI System Trustworthiness Measurement and Content Provenance",
+    "summary": "This page outlines measures (MS-3.3 and MS-4.2) for ensuring GAI system trustworthiness through training materials, structured feedback collection on content provenance, and regular adversarial testing. It emphasizes monitoring content quality, detecting biases, conducting real-world performance evaluations, and documenting human-system override instances to validate consistent system performance across the AI lifecycle.",
+    "keywords": [
+      "GAI trustworthiness measurement",
+      "content provenance",
+      "adversarial testing",
+      "harmful bias detection",
+      "digital content transparency",
+      "structured feedback",
+      "interpretability and explainability",
+      "information integrity",
+      "AI system monitoring",
+      "human-AI configuration"
+    ],
+    "page": 43
+  },
+  {
+    "title": "AI Risk Management: Response Planning and Deployed System Monitoring",
+    "summary": "This page outlines MANAGE 1.3 and MANAGE 2.2 functions for handling AI risks identified through mapping processes. MANAGE 1.3 covers developing and documenting risk responses (mitigating, transferring, avoiding, accepting) with specific actions for model release strategies and control effectiveness monitoring. MANAGE 2.2 details mechanisms for sustaining deployed AI systems, including output validation against risk tolerance, content provenance tracking, bias evaluation, and monitoring for harmful or dangerous content.",
+    "keywords": [
+      "AI risk response",
+      "risk mitigation strategies",
+      "model release approach",
+      "deployed AI systems",
+      "content provenance",
+      "harmful bias mitigation",
+      "CBRN content detection",
+      "red-teaming",
+      "AI risk tolerance"
+    ],
+    "page": 44
+  },
+  {
+    "title": "GAI Management procedures for feedback, incident response, and system disengagement",
+    "summary": "This page outlines management procedures (MG-2.2 through MG-2.4) for generative AI systems, including using feedback mechanisms to assess AI-generated content quality, implementing real-time auditing tools for data authenticity, and developing incident response plans. It also covers procedures for deactivating or disengaging AI systems that underperform, with emphasis on stakeholder communication and recovery protocols.",
+    "keywords": [
+      "feedback mechanisms",
+      "AI-generated content assessment",
+      "incident response plans",
+      "system deactivation",
+      "real-time auditing",
+      "synthetic data",
+      "GAI risk management",
+      "stakeholder communication",
+      "data integrity",
+      "governance and oversight"
+    ],
+    "page": 45
+  },
+  {
+    "title": "GAI System Incident Management and Third-Party Risk Controls",
+    "summary": "This page outlines procedures for escalating GAI system incidents to risk management authorities and establishing deactivation criteria (MG-2.4). It also details risk management practices for third-party GAI resources, including testing for vulnerabilities, applying organizational controls, and monitoring compliance with data privacy and intellectual property requirements (MANAGE 3.1).",
+    "keywords": [
+      "GAI system incident escalation",
+      "deactivation criteria",
+      "third-party GAI resources",
+      "risk controls",
+      "data poisoning",
+      "intellectual property",
+      "retrieval-augmented generation",
+      "remediation procedures",
+      "CBRN information",
+      "fine-tuning risk assessment"
+    ],
+    "page": 46
+  },
+  {
+    "title": "Pre-trained Model Monitoring and Content Management",
+    "summary": "This section outlines management practices for monitoring pre-trained models used in generative AI systems, including documentation of model adaptations, training data sources, and bias assessment. Key actions include implementing explainable AI techniques, content filters for harmful outputs, evaluating user feedback, and establishing real-time monitoring processes to maintain information integrity and prevent generation of inappropriate or false content.",
+    "keywords": [
+      "pre-trained models monitoring",
+      "explainable AI techniques",
+      "fine-tuning documentation",
+      "content filters",
+      "harmful bias mitigation",
+      "training data provenance",
+      "real-time content monitoring",
+      "model adaptation",
+      "information integrity",
+      "GAI risk management"
+    ],
+    "page": 47
+  },
+  {
+    "title": "GAI System Management and Post-Deployment Monitoring",
+    "summary": "This page outlines management practices for generative AI (GAI) systems, focusing on deployment oversight and post-deployment monitoring. It includes specific actions for leveraging organizational feedback, implementing human moderation, monitoring system performance, and establishing procedures for risk evaluation, incident response, and transparency reporting.",
+    "keywords": [
+      "generative AI management",
+      "post-deployment monitoring",
+      "human moderation",
+      "GAI risk assessment",
+      "confabulation detection",
+      "AI transparency reporting",
+      "pre-trained models",
+      "content provenance",
+      "active learning",
+      "incident response"
+    ],
+    "page": 48
+  },
+  {
+    "title": "AI System Monitoring, Incident Management, and Continuous Improvement",
+    "summary": "This page outlines management practices for monitoring generative AI (GAI) systems and addressing issues through MANAGE 4.1-4.3 frameworks. It specifies requirements for AI actors to evaluate system performance, track content provenance, conduct incident response planning, communicate errors to stakeholders, and implement continuous improvements based on regular monitoring and post-mortem analyses.",
+    "keywords": [
+      "GAI system monitoring",
+      "incident response",
+      "content provenance tracking",
+      "AI actors",
+      "harmful content management",
+      "continuous improvement",
+      "error tracking",
+      "post-mortem analysis",
+      "Human-AI configuration",
+      "information integrity"
+    ],
+    "page": 49
+  },
+  {
+    "title": "GAI Incident Reporting Compliance Requirements",
+    "summary": "This page outlines requirements for reporting Generative AI (GAI) incidents in compliance with legal and regulatory frameworks, including HIPAA breach reporting and NHTSA autonomous vehicle crash reporting. It covers information security and data privacy considerations, identifying multiple AI actor tasks involved in incident reporting such as deployment, monitoring, and stakeholder communication.",
+    "keywords": [
+      "GAI incident reporting",
+      "HIPAA breach reporting",
+      "NHTSA autonomous vehicle",
+      "regulatory compliance",
+      "information security",
+      "data privacy",
+      "AI deployment monitoring",
+      "incident management"
+    ],
+    "page": 50
+  },
+  {
+    "title": "Primary GAI Considerations: Governance and Risk Management",
+    "summary": "This appendix outlines primary considerations for managing generative AI (GAI) risks, with emphasis on governance principles and organizational oversight. It discusses how governance regimes must be re-evaluated for GAI contexts, including organizational governance, human-AI configurations, and the diverse applications and AI actors involved in GAI systems across the value chain.",
+    "keywords": [
+      "generative AI governance",
+      "GAI risk management",
+      "organizational oversight",
+      "human-AI configuration",
+      "AI actors",
+      "governance frameworks",
+      "pre-deployment testing",
+      "content provenance",
+      "incident disclosure",
+      "AI system risk assessment"
+    ],
+    "page": 51
+  },
+  {
+    "title": "GAI Governance, Third-Party Considerations, and Pre-Deployment Testing",
+    "summary": "This page outlines comprehensive governance practices for Generative AI (GAI) systems, including acceptable use policies for human-AI teaming, risk management strategies, and data protection measures. It addresses third-party considerations for acquiring and integrating external GAI models, emphasizing intellectual property and data privacy risks, as well as standard controls like procurement due diligence and SBOMs. The section on pre-deployment testing highlights the importance of robust TEVV (test, evaluation, validation, verification) processes applied iteratively throughout the AI lifecycle.",
+    "keywords": [
+      "GAI governance",
+      "acceptable use policies",
+      "third-party GAI integration",
+      "data protection and privacy",
+      "TEVV testing",
+      "pre-deployment testing",
+      "risk management",
+      "intellectual property risks",
+      "procurement due diligence",
+      "human-AI teaming"
+    ],
+    "page": 52
+  },
+  {
+    "title": "Pre-deployment Testing and Feedback for GAI Systems",
+    "summary": "This section examines pre-deployment testing and verification (TEVV) approaches for generative AI (GAI), including their current limitations and gaps between laboratory testing and real-world performance. It describes structured public feedback methods such as participatory engagement, field testing, and AI red-teaming as approaches to evaluate GAI system performance and inform deployment decisions.",
+    "keywords": [
+      "pre-deployment testing",
+      "TEVV (testing evaluation verification validation)",
+      "generative AI",
+      "GAI risk measurement",
+      "AI red-teaming",
+      "structured public feedback",
+      "measurement gaps",
+      "real-world deployment contexts",
+      "field testing",
+      "participatory engagement"
+    ],
+    "page": 53
+  },
+  {
+    "title": "Participatory Engagement and AI Red-teaming Methods",
+    "summary": "This page describes three primary approaches for evaluating generative AI systems: participatory engagement methods (focus groups, user studies, surveys) used in early development stages; field testing in structured settings to evaluate risks and impacts before deployment; and AI red-teaming exercises conducted in controlled environments with diverse teams to identify potential adverse behaviors and stress test safeguards. The page emphasizes the importance of team diversity, domain expertise, and proper human subjects research standards across all evaluation methods.",
+    "keywords": [
+      "participatory engagement methods",
+      "field testing",
+      "AI red-teaming",
+      "generative AI evaluation",
+      "pre-deployment testing",
+      "user studies and focus groups",
+      "AI risk identification",
+      "diverse red teams",
+      "domain expertise",
+      "safeguard stress testing"
+    ],
+    "page": 54
+  },
+  {
+    "title": "Content Provenance and Provenance Data Tracking for GAI",
+    "summary": "This section discusses how provenance data tracking and synthetic content detection mechanisms help manage risks associated with generative AI systems. It explains various techniques like digital watermarking, metadata recording, and digital fingerprinting that track the origin and history of AI-generated content to verify authenticity and maintain information integrity.",
+    "keywords": [
+      "provenance data tracking",
+      "synthetic content detection",
+      "digital watermarking",
+      "AI-generated content",
+      "deepfake detection",
+      "metadata recording",
+      "content authenticity",
+      "GAI risk management"
+    ],
+    "page": 55
+  },
+  {
+    "title": "GAI System Monitoring, Provenance, and Incident Disclosure",
+    "summary": "This page discusses strategies for monitoring generative AI systems through testing and evaluation processes, with emphasis on content provenance techniques including watermarking, metadata management, and user feedback mechanisms. It also defines AI incidents as events causing harm to individuals, infrastructure, or rights, and notes that while formal incident reporting channels don't exist, public databases have emerged to document AI incidents on an ad hoc basis.",
+    "keywords": [
+      "content provenance",
+      "generative AI monitoring",
+      "AI incident disclosure",
+      "watermarking techniques",
+      "user feedback mechanisms",
+      "TEVV processes",
+      "AI system limitations",
+      "metadata management",
+      "AI incidents",
+      "incident tracking databases"
+    ],
+    "page": 56
+  },
+  {
+    "title": "GAI Incident Documentation and Reporting Guidelines",
+    "summary": "This page emphasizes the importance of documenting and reporting generative AI (GAI) incidents to mitigate harmful outcomes and improve risk management across the AI ecosystem. It discusses the need for standardized incident reporting guidelines, AI actor responsibilities, and documentation practices such as logging and change management to facilitate information sharing and incident response.",
+    "keywords": [
+      "GAI incident reporting",
+      "incident documentation",
+      "AI actors",
+      "risk management",
+      "transparency",
+      "LLM plugins",
+      "incident disclosure",
+      "change management",
+      "AI lifecycle"
+    ],
+    "page": 57
+  },
+  {
+    "title": "References on AI Security, Safety, and Emerging Issues",
+    "summary": "This appendix provides a comprehensive bibliography of academic papers, reports, and articles addressing various aspects of artificial intelligence safety and security. Topics covered include AI incident databases, deepfakes and child safety, large language model vulnerabilities, prompt injection attacks, training data extraction, algorithmic bias, disinformation operations, and legal hallucinations in LLMs.",
+    "keywords": [
+      "AI security",
+      "large language models",
+      "prompt injection",
+      "training data extraction",
+      "algorithmic bias",
+      "deepfakes",
+      "AI incidents",
+      "generative AI risks",
+      "LLM hallucinations",
+      "AI safety"
+    ],
+    "page": 58
+  },
+  {
+    "title": "Bibliography of AI Safety and Security Research",
+    "summary": "This page contains a curated bibliography of academic and industry sources focused on AI safety, security, and societal impacts. The references cover topics including cybersecurity applications of AI, generative AI risks (hallucinations, prompt injection, bias), human trust in algorithms, AI-generated content authentication, and the intersection of AI with mental health and legal services.",
+    "keywords": [
+      "AI security",
+      "prompt injection",
+      "generative AI",
+      "algorithm aversion",
+      "AI hallucination",
+      "LLM safety",
+      "algorithmic bias",
+      "AI content authentication",
+      "machine learning vulnerabilities",
+      "human-AI trust"
+    ],
+    "page": 59
+  },
+  {
+    "title": "Bibliography of AI Risk and Safety Research",
+    "summary": "This page is a reference list of academic and institutional sources on AI risks, including topics such as non-consensual image dissemination, deepfakes, data poisoning, algorithmic bias, privacy concerns, and AI risk management frameworks. Major contributors include NIST's AI Risk Management Framework, research on generative AI harms, and studies examining algorithmic monoculture and adversarial machine learning.",
+    "keywords": [
+      "AI risk management",
+      "generative AI bias",
+      "deepfakes and privacy",
+      "data poisoning",
+      "adversarial machine learning",
+      "NIST AI framework",
+      "algorithmic harms",
+      "non-consensual image dissemination"
+    ],
+    "page": 60
+  },
+  {
+    "title": "AI Risk Management Bibliography and References",
+    "summary": "This page is a reference list containing citations to key documents and research papers on AI risk management, trustworthy AI, and related governance topics. It includes sources from NIST's AI Risk Management Framework, OECD publications on AI accountability and incidents, academic research on AI safety issues like bias and deception, and technical reports from major AI developers like OpenAI.",
+    "keywords": [
+      "AI risk management",
+      "trustworthy AI",
+      "AI governance",
+      "NIST AI RMF",
+      "bias in artificial intelligence",
+      "AI safety",
+      "AI incidents",
+      "machine learning risks",
+      "AI accountability",
+      "synthetic media transparency"
+    ],
+    "page": 61
+  },
+  {
+    "title": "Bibliography of AI Safety and Ethics Research",
+    "summary": "This page presents a comprehensive bibliography of academic papers and policy documents addressing AI risks, safety, and ethical concerns. It covers topics including deepfakes and disinformation, large language model deception and hallucination, algorithmic harms, privacy violations, bias in AI systems, and regulatory frameworks from The White House.",
+    "keywords": [
+      "AI safety",
+      "large language models",
+      "deepfakes",
+      "algorithmic harms",
+      "AI ethics",
+      "disinformation",
+      "privacy violations",
+      "model evaluation",
+      "AI policy",
+      "trustworthy AI development"
+    ],
+    "page": 62
+  },
+  {
+    "title": "Bibliography of AI Ethics and Safety Research",
+    "summary": "This page is a reference list of academic sources and articles examining AI harms, safety, and ethical concerns, spanning topics including language model risks, algorithmic bias, toxic speech, misinformation, and fairness issues across various applications. The citations include peer-reviewed research from major conferences (FAccT, AAAI/ACM), preprints from arXiv, and journalism covering specific incidents like AI-generated deepfakes and hiring discrimination.",
+    "keywords": [
+      "language models risks",
+      "AI ethics",
+      "algorithmic bias",
+      "AI safety evaluation",
+      "large language models harms",
+      "AI incident documentation",
+      "misinformation algorithmic",
+      "generative AI safety",
+      "fairness discrimination AI",
+      "jailbreak prompts"
+    ],
+    "page": 63
+  },
+  {
+    "title": "Bibliography of AI and generative content research",
+    "summary": "This page contains a reference list of three 2023 academic sources examining generative AI, including studies on human perception and bias toward AI versus human experts in content generation, hallucination phenomena in large language models, and watermarking techniques for AI-generated text authentication.",
+    "keywords": [
+      "generative AI",
+      "human-AI collaboration",
+      "AI hallucination",
+      "large language models",
+      "AI watermarking",
+      "human favoritism",
+      "persuasive content generation",
+      "AI-generated text detection"
+    ],
+    "page": 64
+  }
+]

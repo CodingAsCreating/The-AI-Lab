@@ -44,4 +44,5 @@ Then run the cells top-to-bottom. The notebook walks through:
 ## Notes
 
 - Defaults to `claude-haiku-4-5` for cheap indexing and `claude-sonnet-4-6` for answers. Swap the constants at the top of the notebook to use any other Claude model.
-- Indexing the sample PDF (~64 pages) costs roughly one Haiku call per page. Cache the resulting `toc.json` so you only do it once.
+- Indexing the sample PDF (~64 pages) costs roughly one Haiku call per page. A pre-built `data/toc.json` is committed so you can skip indexing entirely and jump straight to retrieval — delete that file to re-run the indexing step yourself.
+- The committed notebook already has outputs from a real run, so you can read through it on GitHub without executing anything.
